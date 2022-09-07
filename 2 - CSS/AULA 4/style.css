@@ -1,0 +1,44 @@
+body {
+    background: #c4bfbfea;
+}
+.foto-principal {
+    width: 200px;
+    /*border: 10px solid #ffffff; /*shorthand*/
+    border-style:solid;
+    border-width: 5px;
+    border-color: #ffffff;
+    border-radius:80%;
+    
+    
+    
+    /*
+    border-width: 5px ;
+    border-color: black;
+    border-style: solid;
+    */
+}
+
+p { 
+    color:#464646;
+}
+
+h1 {/*Rafael Bugano*/
+    color: rgba(88, 0, 84, 0.836);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    font-style:initial
+}
+
+h2 {/*softwer developer*/
+    color:coral;
+    font-family: Tahoma;
+    font: size 14px;
+}
+
+h3 {
+    color: brown;
+}
+
+a {
+    color:rgb(26, 10, 247)
+}

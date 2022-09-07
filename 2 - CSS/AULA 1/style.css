@@ -1,0 +1,12 @@
+body {
+    background: rgba(8, 172, 131, 0.267);
+}
+h3 {
+    color: rgba(190, 0, 165, 0.904);
+}
+.foto-principal {
+    width: 500px;
+}
+#titulo-principal {
+    color: rgba(90, 14, 189, 0.637);
+}
